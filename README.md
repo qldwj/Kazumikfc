@@ -1,1 +1,3 @@
-https://github.com/qldwj/Kazumikfc/
+# 此APP为kazumi.app二改项目
+# 我们将同步官方更新
+# 拥有更多的动漫源
