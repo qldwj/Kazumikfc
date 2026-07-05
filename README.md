@@ -44,7 +44,7 @@ Android 10 及以上版本
 
 ## 开发人员
 <a href="https://github.com/qldwj">
-<img src="https://avatars.githubusercontent.com/u/填入你自己的GitHub数字ID?v=4&size=64">
+<img src="https://avatars.githubusercontent.com/u/262981771?v=4&size=64">
 <br>qldwj
 </a>
 &nbsp;&nbsp;&nbsp;
