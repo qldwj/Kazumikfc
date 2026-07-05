@@ -21,7 +21,7 @@ Android 10 及以上版本
 ## 下载方式
 ### 方式1：GitHub 仓库 Releases
 <a href="./releases">
-<img src="https://github.com/Predidit/Kazumi/raw/master/.github/assets/get-it-on-github.png" alt="Get it on Github" height="60">
+<img src="https://cdn.jsdelivr.net/gh/Predidit/Kazumi@master/.github/assets/get-it-on-github.png" alt="Get it on Github" height="60">
 </a>
 
 ### 方式2：官方网站下载页
@@ -43,6 +43,12 @@ Android 10 及以上版本
 - Live2D 交互式看板娘组件。
 
 ## 开发人员
-<a href="https://github.com/qldwj/Kazumikfc/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=qldwj/Kazumikfc" />
+<a href="https://github.com/qldwj">
+<img src="https://avatars.githubusercontent.com/u/填入你自己的GitHub数字ID?v=4&size=64">
+<br>qldwj
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/qlgfwz">
+<img src="https://avatars.githubusercontent.com/u/245491235?v=4&size=64">
+<br>qlgfwz
 </a>
