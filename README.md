@@ -1,3 +1,4 @@
+
 # qlyyz.xyz
 
 樱花动漫 YHDM APP
@@ -18,17 +19,15 @@
 Android 10 及以上版本
 
 ## 下载方式
-### 方式1：本仓库 Releases
+### 方式1：GitHub 仓库 Releases
 <a href="./releases">
 <img src="https://github.com/Predidit/Kazumi/raw/master/.github/assets/get-it-on-github.png" alt="Get it on Github" height="60">
 </a>
 
-### 方式2：官网浏览器下载（浏览器图标按钮）
+### 方式2：官方网站下载页
 <a href="https://qlyyz.xyz/downloads">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Google_Chrome_icon_%28February_2022%29.svg/120px-Google_Chrome_icon_%28February_2022%29.svg.png" alt="前往官网下载" height="60">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Google_Chrome_icon_%28February_2022%29.svg/120px-Google_Chrome_icon_%28February_2022%29.svg.png" alt="官网浏览器下载" height="60">
 </a>
-
-> 说明：原版F-Droid按钮你不需要，我已移除；保留GitHub仓库按钮+浏览器官网按钮，点击分别跳转Releases与你的下载页面。
 
 ## 免责与版权声明
 1. 本项目仅用于编程学习与技术交流，禁止商用；
@@ -47,7 +46,3 @@ Android 10 及以上版本
 <a href="https://github.com/qldwj/Kazumikfc/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=qldwj/Kazumikfc" />
 </a>
-
-### 单独头像展示（备用，如果贡献者墙暂时没加载出qlgfwz）
-<img src="https://avatars.githubusercontent.com/u/245491235?v=4&size=64" alt="qlgfwz" width="64"> qlgfwz
-<img src="https://avatars.githubusercontent.com/u/这里填你自己id?v=4&size=64" alt="qldwj" width="64"> qldwj
