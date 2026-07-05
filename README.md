@@ -20,8 +20,8 @@ Android 10 及以上版本
 
 ## 下载方式
 ### 方式1：GitHub 仓库 Releases
-<a href="./releases">
-<img src="https://cdn.jsdelivr.net/gh/Predidit/Kazumi@master/.github/assets/get-it-on-github.png" alt="Get it on Github" height="60">
+<a href="https://github.com/qldwj/Kazumikfc/releases/">
+<img src="https://github.com/Predidit/Kazumi/raw/main/static/svg/get_it_on_github.svg" alt="Get it on Github" height="60">
 </a>
 
 ### 方式2：官方网站下载页
@@ -40,7 +40,10 @@ Android 10 及以上版本
 - 标签、名称快速检索番剧；
 - 番剧详情：评分、放送信息、角色、制作人员、作品简介；
 - 两种观看渠道，网页端内置播放器支持集数切换；
-- Live2D 交互式看板娘组件。
+
 
 ## 开发人员
-<a href="https://github.com/qldwj"><img src="https://avatars.githubusercontent.com/u/262981771?v=4&size=64" width="18"> qldwj</a> <a href="https://github.com/qlgfwz"><img src="https://avatars.githubusercontent.com/u/245491235?v=4&size=64" width="18"> qlgfwz</a>
+<a href="https://github.com/qldwj"><img src="https://avatars.githubusercontent.com/u/262981771?v=4&size=64" width="18"> qldwj</a>
+&nbsp;&nbsp;
+<a href="https://github.com/qlgfwz"><img src="https://avatars.githubusercontent.com/u/245491235?v=4&size=64" width="18"> qlgfwz</a>
+
