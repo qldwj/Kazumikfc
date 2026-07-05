@@ -18,6 +18,10 @@
 ## 支持平台
 Android 10 及以上版本
 
+## 屏幕截图
+<img src="https://qlyyz.xyz/1.png" width="400">
+
+
 ## 下载方式
 ### 方式1：GitHub 仓库 Releases
 <a href="https://github.com/qldwj/Kazumikfc/releases/">
@@ -46,4 +50,5 @@ Android 10 及以上版本
 <a href="https://github.com/qldwj"><img src="https://avatars.githubusercontent.com/u/262981771?v=4&size=64" width="18"> qldwj</a>
 &nbsp;&nbsp;
 <a href="https://github.com/qlgfwz"><img src="https://avatars.githubusercontent.com/u/245491235?v=4&size=64" width="18"> qlgfwz</a>
+
 
