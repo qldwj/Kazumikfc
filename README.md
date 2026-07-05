@@ -47,8 +47,8 @@ Android 10 及以上版本
 
 
 ## 开发人员
-<a href="https://github.com/qldwj"><img src="https://avatars.githubusercontent.com/u/262981771?v=4&size=64" width="36"> qldwj</a>
+<a href="https://github.com/qldwj"><img src="https://avatars.githubusercontent.com/u/262981771?v=4&size=64" width="52"> qldwj</a>
 &nbsp;&nbsp;
-<a href="https://github.com/qlgfwz"><img src="https://avatars.githubusercontent.com/u/245491235?v=4&size=64" width="36"> qlgfwz</a>
+<a href="https://github.com/qlgfwz"><img src="https://avatars.githubusercontent.com/u/245491235?v=4&size=64" width="52"> qlgfwz</a>
 
 
