@@ -19,7 +19,7 @@
 Android 10 及以上版本
 
 ## 屏幕截图
-<img src="https://qlyyz.xyz/1.png" width="120">
+<img src="https://qlyyz.xyz/1.png" width="150">
 
 
 ## 下载方式
