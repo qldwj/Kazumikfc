@@ -3,7 +3,8 @@
 樱花动漫 YHDM APP
 
 ## 查看源码
-# github.com/qldwj/my
+<a href="https://github.com/qldwj/my">
+
 
 ## 项目说明
 本软件是对开源项目 Kazumi 的二次定制改造作品，不存在完全独立编写的底层源码，所有基础项目架构继承原开源仓库,本人凭兴趣开发此产品
