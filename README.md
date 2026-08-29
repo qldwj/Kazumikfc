@@ -3,7 +3,7 @@
 樱花动漫 YHDM APP
 
 ## 查看源码
-<a href="https://github.com/qldwj/my">
+https://github.com/qldwj/my
 
 
 ## 项目说明
