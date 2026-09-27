@@ -43,6 +43,6 @@ Android 10 及以上版本
 - 两种观看渠道，网页端内置播放器支持集数切换；
 
 ## 开发人员
-<a href="https://github.com/qldwj"><img src="https://avatars.githubusercontent.com/u/262981771?v=8&size=128" width="128"> qldwj</a>
+<a href="https://github.com/qldwj"><img src="https://avatars.githubusercontent.com/u/262981771?v=8&size=128" width="128"></a>
 &nbsp;&nbsp;
-<a href="https://github.com/qlgfwz"><img src="https://avatars.githubusercontent.com/u/225713231?v=8&size=128" width="128"> qlgfwz</a>
+<a href="https://github.com/qlgfwz"><img src="https://avatars.githubusercontent.com/u/225713231?v=8&size=128" width="128"></a>
