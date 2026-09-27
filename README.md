@@ -45,4 +45,4 @@ Android 10 及以上版本
 ## 开发人员
 <a href="https://github.com/qldwj"><img src="https://avatars.githubusercontent.com/u/262981771?v=8&size=128" width="128"></a>
 &nbsp;&nbsp;
-<a href="https://github.com/qlgfwz"><img src="https://avatars.githubusercontent.com/u/225713231?v=8&size=128" width="128"></a>
+<a href="https://github.com/yhdmgf"><img src="https://avatars.githubusercontent.com/u/225713231?v=8&size=128" width="128"></a>
