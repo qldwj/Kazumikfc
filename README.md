@@ -20,6 +20,12 @@
 
 > 基于开源项目 Kazumi 二次定制的樱花动漫客户端
 
+<p align="center">
+  <a href="https://github.com/qldwj/Kazumikfc/releases">
+    <img src="assets/1.png" alt="展示图" width="600">
+  </a>
+</p>
+
 ## 查看源码
 https://github.com/qldwj/my
 
