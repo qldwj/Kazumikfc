@@ -22,7 +22,7 @@
 
 <p align="center">
   <a href="https://github.com/qldwj/Kazumikfc/releases">
-    <img src="assets/1.png" alt="展示图" width="600">
+    <img src="assets/1.png" alt="APP 界面预览" width="200">
   </a>
 </p>
 
