@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://qlyyz.xyz/logo.webp" alt="樱花动漫 YHDM APP" width="220">
+  <a href="https://qlyyz.xyz">
+    <img src="assets/logo.webp" alt="樱花动漫 YHDM APP" width="120">
+  </a>
 </p>
 
 <p align="center">
