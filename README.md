@@ -1,6 +1,22 @@
-# qlyyz.xyz
+<p align="center">
+  <img src="https://qlyyz.xyz/logo.webp" alt="樱花动漫 YHDM APP" width="220">
+</p>
 
-樱花动漫 YHDM APP
+<p align="center">
+  <a href="https://github.com/qldwj/Kazumikfc/stargazers">
+    <img src="https://img.shields.io/github/stars/qldwj/Kazumikfc?style=for-the-badge&logo=github&label=Stars" alt="GitHub Stars">
+  </a>
+  <a href="https://github.com/qldwj/Kazumikfc/releases">
+    <img src="https://img.shields.io/github/v/release/qldwj/Kazumikfc?include_prereleases&style=for-the-badge&logo=github&label=Version" alt="Latest Version">
+  </a>
+  <a href="https://github.com/qldwj/Kazumikfc/releases">
+    <img src="https://img.shields.io/github/downloads/qldwj/Kazumikfc/total?style=for-the-badge&logo=github&label=Downloads" alt="Total Downloads">
+  </a>
+</p>
+
+# 樱花动漫 YHDM APP
+
+> 基于开源项目 Kazumi 二次定制的樱花动漫客户端
 
 ## 查看源码
 https://github.com/qldwj/my
